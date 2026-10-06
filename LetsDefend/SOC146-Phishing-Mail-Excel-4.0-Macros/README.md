@@ -27,7 +27,7 @@ The alert was generated with the following details:
 
 ### Screenshot
 
-![SOC146 Alert](screenshots/01-alert.png)
+![SOC146 Alert](screenshots/01-alert.png.png)
 
 ### Initial Observation
 
