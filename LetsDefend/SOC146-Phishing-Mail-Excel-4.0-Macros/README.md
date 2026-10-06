@@ -118,7 +118,7 @@ The URLs are defanged so they cannot be accidentally opened from the GitHub page
 
 ### Screenshot
 
-![Artifacts](screenshots/06-artifacts.png)
+![Artifacts](screenshots/06-artifact.png)
 
 ---
 
